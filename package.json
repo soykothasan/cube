@@ -1,0 +1,25 @@
+{
+  "name": "Cube",
+  "description": "A playable html5 cube",
+  "version": "0.1",
+  "keywords": [
+    "html5"
+  ],
+  "contributors": [
+    {
+      "name": "Soykot Hasan",
+      "email": "shhasan.info@gmail.com",
+      "web": "https://soykothasan.tk"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/soykothasan/cube/issues/new"
+  },
+  "licenses": [
+    {
+      "name": "GNU General Public License v3.0",
+      "url": "https://github.com/soykothasan/cube/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/soykothasan/cube"
+}
